@@ -2,7 +2,7 @@
 ! Version: 201706020000
 ! Title: AntiPubNet
 ! Filtre complémentaire
-! Derniere modification le 02 Juin 2017 00:00 GMT+2
+! Derniere modification le 28 Juillet 2017 00:00 GMT+2
 !
 ! Me Contacter pour signaler une nouvelle pub : Techinnov
 ! Ou bien via L'espace "Contact" du site https://antipubnet.blogspot.com/p/contact.html
