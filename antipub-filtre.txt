@@ -5615,9 +5615,19 @@ facebook.com#@##pagelet_advertiser_panel
 ! 16/10/2017 - technicoz -- Souci detect antipub
 @@||technicoz.com^$generichide
 ||technicoz.com/wp-content/uploads/$script
-!--- Pub --- !
+! 17/10/2017 - univers-animer -- Souci detec antipub
+@@||univers-animer.com^$generichide
+||cloudfront.net^$domain=univers-animer.com
+
+! --Extra
 www.univers-animer.com##.tJZfpeYeFuUE-bg
 www.univers-animer.com##.tJZfpeYeFuUE-default
 www.univers-animer.com##.close-tJZfpeYeFuUE.close-modal
+www.univers-animer.com##div:nth-of-type(2) > a[href^="/redirect.html"]
 www.univers-animer.com###text-13 > .widgettitle
 www.univers-animer.com###text-6 > .widgettitle
+www.univers-animer.com##p:nth-of-type(2) > div:nth-of-type(1) > div
+||www.univers-animer.com/univers/telechargersai.png$image
+||www.univers-animer.com/univers/regarderep.png$image
+||www.univers-animer.com/telecharger2.png$image
+||www.univers-animer.com/telecharger.rapidement.png$image
