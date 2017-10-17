@@ -5615,3 +5615,9 @@ facebook.com#@##pagelet_advertiser_panel
 ! 16/10/2017 - technicoz -- Souci detect antipub
 @@||technicoz.com^$generichide
 ||technicoz.com/wp-content/uploads/$script
+!--- Pub --- !
+www.univers-animer.com##.tJZfpeYeFuUE-bg
+www.univers-animer.com##.tJZfpeYeFuUE-default
+www.univers-animer.com##.close-tJZfpeYeFuUE.close-modal
+www.univers-animer.com###text-13 > .widgettitle
+www.univers-animer.com###text-6 > .widgettitle
