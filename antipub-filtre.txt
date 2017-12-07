@@ -1,5 +1,5 @@
-[µBlock]
-! Version: 201710180000
+﻿[µBlock]
+! Version: 201712180000
 ! Title: AntiPubNet
 ! Filtre complémentaire
 ! Expires: 1 days
