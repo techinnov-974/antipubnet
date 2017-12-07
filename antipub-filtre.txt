@@ -3,7 +3,7 @@
 ! Title: AntiPubNet
 ! Filtre complémentaire
 ! Expires: 1 days
-! Derniere modification le 18 oct 2017 00:00 GMT+2
+! Derniere modification le 07 Dec 2017 00:00 GMT+2
 ! Licence : https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://antipubnet.blogspot.com/
 !
