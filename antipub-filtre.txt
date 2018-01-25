@@ -1,10 +1,9 @@
 ﻿[µBlock]
-! Version: 201712100000
+! Version: 201801260000
 ! Title: AntiPubNet
 ! Filtre complémentaire
 ! Expires: 1 days
-! Derniere modification le 10 Dec 2017 00:00 GMT+2
-! Licence : https://creativecommons.org/licenses/by/3.0/
+! Derniere modification le 26 Jan 2018 00:00 GMT+2
 ! Homepage: https://antipubnet.blogspot.com/
 !
 ! Merci de signaler toute publicité non filtrée ou tout problème
@@ -13,6 +12,7 @@
 !
 !----------------------- Sites specifiques -----------------------!
 !
+|https://$image,script,subdocument,third-party,xmlhttprequest,domain=dwf6crl4raal7.cloudfront.net
 ||01net.com/front_office/static/newsletter/images/300x60_abo-nl_01net-telecharger.gif
 ||01net.com/front_office/static/telechargement/box/bdd.js
 ||01net.com/stylesv6/smoothbox.js
@@ -62,7 +62,6 @@
 ||ads.ligier-voiture.com/adsen.php
 ||adserver.playtv.fr/delivery/afr.php?zoneid=
 ||adserving.cpxinteractive.com/st?ad_type=iframe&ad_size=300x250&section=
-||advstat.letitbit.net/share_fr.html
 ||afalaz.files.wordpress.com/2010/02/icon_new.gif
 ||affiliation.hexaweb.net/creaimage.php?title=
 ||affiliation.france-pari.fr/processing/impressions.asp?btag=
@@ -205,6 +204,7 @@
 ||cinemasgaumontpathe.com/v3/js/mobile.js
 ||classic-retro-games.com/js/app.js?v=2
 ||clictune.com/images/logo_redirect.png
+||clksite.com/adServe/banners?tid=IF1ZYPPYSHARE_POP&tagid=
 ||clubic.com/api/pub/
 ||clubic.com/img/bg_widget_shopping_clubic.jpg
 ||clubic.com/img/widget_gamer.jpg
@@ -232,6 +232,7 @@
 ||crij.org/images/banners/
 ||critiquephoto.com/images/ban_vente_tirages_400x40.jpg
 ||cshoppingbox.partner.leguide.com/lequipe/
+||d29fo95m87y91s.cloudfront.net^
 ||d79hhplb6mky8.cloudfront.net/wp-content/uploads/2017/*/OKLM-*.jpg
 ||d79hhplb6mky8.cloudfront.net/wp-content/uploads/2017/*/NEW-SPEC-plw.jpg
 ||dailyuploads.net/images/downredd.png
@@ -262,7 +263,7 @@
 ||doublepimp.com/getad.aspx?
 ||douniamusic.com/include/pub-carre2.php
 ||douniamusic.com/include/pub-haut2.php
-||douploads.com/mngez/music/song.mp3
+||douploads.com/*/music/song.
 ||download.hr/marketing/www/delivery/
 ||dpstream.net/afficher_pub.php
 ||dpstream.net/fichiers/pub/pub_index.php
@@ -273,6 +274,7 @@
 ||dropapk.com/images/mngez-maxspeed.swf
 ||dropapk.com/images/mngez-minspeed.swf
 ||ds.serving-sys.com/BurstingRes/
+||dwf6crl4raal7.cloudfront.net^
 ||dzmusique.com/pub/
 ||dzsat.org/images/satshop_banner.gif
 ||e-nautia.com/ads/free.php?x=ads300x250
@@ -373,6 +375,7 @@
 ||goo.gl/b4wgxP
 ||gratuit-tv.com/player-tv/social-locker-jquery/social-locker-2.js
 ||gredinatib.biz/viewt.js
+||gstatic.com/cv/js/sender/*/cast_sender.js$domain=mycanal.fr
 ||gulli.fr/design/gulli/images/bg_bonnet.png
 ||gulli.fr/design/gulli/images/bg_bttm_wrapper.png
 ||gulli.fr/design/gulli/images/bg_evenements_gulli.png
@@ -395,8 +398,6 @@
 ||hsselite.com/upgrade_banner_wide?mf=
 ||httpcs.com/images/p/32.gif
 ||httpcs.com/images/p/46.gif
-||hugefiles.net/button.png
-||hugefiles.net/download-bt.png
 ||hulkload.com/image/box10.png
 ||i.aliez.tv/img/a.png
 ||i.htfacile.fr/0098003404019456-c1-photo-logo-achetezfacile.jpg
@@ -485,6 +486,7 @@
 ||kooora.com/default.aspx?cpn=7988
 ||koramgame.com/item/1126/img/
 ||korben.info/wp-content/uploads/2017/06/tnj4p1myre1mpff12w4j1llndmc.png
+||kxcdn.com/api/*/domain_settings/a?callback=pfMod.saveAdSettings&hostname=www.malekal.com
 ||l.liberation.fr/img/common/bg_colFormat4.gif
 ||l.longtailvideo.com/5/7/logo.png
 ||l.longtailvideo.com/5/8/logo.png
@@ -515,23 +517,6 @@
 ||leroutard.com/image/*fond-habillage-vpg-1500x800-*.jpg
 ||lesbilans.com/Application/GetBandeauImage?index=
 ||lesmobiles.com/habillage/
-||letitbit.net/images/bg_spring.jpg
-||letitbit.net/images/download/bg_logo_downloader.gif
-||letitbit.net/images/download/btn_with_sky.png
-||letitbit.net/images/download/btn_without_sky.png
-||letitbit.net/images/download4/bg_downloader_screen_en.jpg
-||letitbit.net/images/download4/bg_page_content.jpg
-||letitbit.net/images/download4/bg_page_content_en.jpg
-||letitbit.net/images/icons/icon_downloader_medium.png
-||letitbit.net/images/nw/bg_snowflames.png
-||letitbit.net/images/other/inst_forex_242x402.png
-||letitbit.net/images/other/inst_forex_724x105.png
-||letitbit.net/images/rebrandings/games/background_03.jpg
-||letitbit.net/images/rebrandings/tnt/tnt_mon_thu.jpg
-||letitbit.net/images/rebrandings/tnt/tnt_today.jpg
-||letitbit.net/images/skymonk/bg_christmas.jpg
-||letitbit.net/images/skymonk/bg_spring.jpg
-||letitbit.net/js/top_slider.js?ver=
 ||lettre-de-resiliation.fr/images/sosh2015.png
 ||lettre-de-resiliation.fr/js/global.js
 ||leuromag.net/media/banniere/125_125/leuromag.gif
@@ -568,7 +553,6 @@
 ||mailorama.fr/images/v2/exep/wearing/habillage_*.jpg
 ||maisonbrico.com/modale/inscription_newsletter
 ||majorleaguegaming.com/assets/ab.js
-||malekal.com/wp-content/uploads/$script
 ||manifone.com/aff_generic_banners/banners/
 ||manifone.com/banner/
 ||manifone.com/testmodule/
@@ -621,6 +605,7 @@
 ||mirrorcreator.com/images/MBTAnimateddownloadbutton.gif
 ||mirrorcreator.com/js/popx.js
 ||mix.dj/static/audio-tags/
+||mmtro.com^$domain=mycanal.fr
 ||mondemul.net/include/jukebox_midi/*/pub.html
 ||monespacepub.com/media/pubs
 ||moneybookers.com/creatives/banners/myaccount/20120404_instaforex-banner_fr.png
@@ -629,7 +614,6 @@
 ||moneybookers.com/creatives/images/my-account/20130124_winner-myaccount_en.png
 ||moneybookers.com/creatives/images/my-account/myaccount-netbet-sport.jpg
 ||moneybookers.com/images/banners/
-||mp3fil.to/apptv.php?w=468&h=60
 ||musicfire.googlecode.com/files/AD.Loader-min.js
 ||musicme.com/_az/ad.php
 ||myad.clicksor.net/publisher/images/pub/
@@ -649,7 +633,6 @@
 ||nitroflare.com/img/swf/LowSpeedMeter.swf
 ||nitroflare.com/img/swf/HighSpeedMeter.swf
 ||nodes.reactivpub.fr/scripts/
-||nostalgie.fr/js/common/appelpopinnewsletter.js
 ||notetaloc.com/images/notetaloc160x600.jpg
 ||notrefamille.com/nf_new/PopUp/
 ||numerama.com/img/pub/
@@ -686,11 +669,8 @@
 ||planet-series.tv/images/new728-*.png
 ||planreduc.com/dhtmlpop.js
 ||planreduc.com/pop.js
-||play.cheriefm.fr/cheriefm/pub-201.html
-||play.cheriefm.fr/cheriefm/pub2-201.html
-||play.nostalgie.fr/nostalgie/pub-202.html
-||play.nostalgie.fr/nostalgie/pub2-202.html
 ||play.tv/assets/scripts/main-*.js$script
+||player.myvideoplace.tv/data_stores/medias/*societe*/logo_playervideo/
 ||playtv.fr/ad/television/
 ||playtv.fr/assets/common/images/animate/icon-loading.gif
 ||playtv.fr/uniads/config/?appzone=desktop.preroll&channelid=
@@ -754,13 +734,13 @@
 ||real-debrid.com/lib/images/banner/*.png
 ||recherche-inverse.com/js/annuaire.js
 ||recrekids.com/images/banniere-recrekids.gif
+||redirect.admeerkat.com^
 ||regie-business.com/images/banniere.png
 ||regie.quenelplus.com/
 ||regietrk.jetm-tech.net/init/?siteId=jmtv1
 ||regietrk.jetm-tech.net/init/?siteId=jmtv2
 ||rencontreshard.com/generateThumbs.php?size=
 ||resources.infolinks.com/js/infolinks_main.js
-||revclouds.com/d1.png
 ||rigojeux.com/pop.php
 ||ro2.biz/ad.php?zone=
 ||ro2.biz/pixel.png
@@ -787,6 +767,7 @@
 ||s.tf1.fr/mmdia/i/78/4/10385784flivy.jpg
 ||s.tf1.fr/mmdia/i/82/5/10717825ooyjl.jpg
 ||safelinking.net/cdn/*/randim.php?type=$image
+||sarenza.com/content/popin/
 ||sastream.50webs.com/carre.html
 ||sastream.50webs.com/sas1.html
 ||sat4stars.com/up/uploads/13781742721.gif
@@ -794,18 +775,10 @@
 ||sdemctwaiazt.com/xgg.js
 ||secure.exposedteensluts.com/track/
 ||secure.payza.com/images/banners/
-||secureupload.eu/gfx/SecureUpload_Banner.png
-||secureupload.eu/img/arrow2.png
-||secureupload.eu/img/downloadalt.png
-||secureupload.eu/img/freedl.png
-||secureupload.eu/img/freeprembg2.png
-||secureupload.eu/img/pbt1.png
-||secureupload.eu/img/premdl.png
-||secureupload.eu/images/soundcloud_2.gif
-||secureupload.eu/images/wpman_2_2.gif
 ||securite.01net.com/call/pubj/
 ||securite.01net.com/call/pubx/
 ||sendmyway.com/images/free-download-btn.png
+||sepquwmgqffrbj.com^
 ||seriennummern.org/images/recoverkeys.gif
 ||servedby.bunchofads.com/tt?id=
 ||sharecast.to/matomybanner.html
@@ -848,6 +821,7 @@
 ||static.arabsbook.com/forum/banners/vYn215I.gif
 ||static.audienceinsights.net/t.js
 ||static.booska-p.com/img/operations/*.jpg
+||static.canal-plus.net/gitlab/trcking/production/*/trcking.min.js
 ||static.cb-content.com/mycontent/243/125x125.jpg
 ||static.cb-content.com/mycontent/746/120x60_release_test_us.gif
 ||static.cb-content.com/mycontent/746/halfsize_early_us.gif
@@ -983,13 +957,11 @@
 ||univers-animez.com/regarder.en.hd.png
 ||univers-animez.com/telecharger.gratuitement.png
 ||univers-animei.com/telecharger.saison.png
-||unlimitzone.com/img/download.png
 ||uploadbaz.com/baner*.gif
 ||uploadbaz.com/fn.js
 ||uploadbb.co/plugins/mediaplayer/site/alecteur.png
 ||uploadex.com/tst/dbtn.gif
 ||uploadex.com/tst/download1.png
-||uploading.com/static/images/uploading_120x240*gif
 ||uploadmirrors.com/images/search.png
 ||uploadocean.com/UploadOcean_images/cloud_download.png
 ||uploadshub.com/images/start-download.gif
@@ -1005,6 +977,7 @@
 ||vapoteurs.net/partner/
 ||vapoteurs.net/wp-content/gallery/partenaires/
 ||vaxadserver.azurewebsites.net/Classic/
+||via.batch.com/*/banner.min.js
 ||vide-greniers.org/libs/js/gestionAP.js
 ||video.mediabong.com/cp/
 ||videobuzz.info//video.php
@@ -1060,9 +1033,6 @@
 ||zebulon.fr/includes/ovh90.html
 ||zippyshare.com/images/icons/newspaper.png
 ||zone-numerique.com/campagnes/*.jpg
-||zone-telechargement.ws/uploads/ddl.JPG
-||zone-telechargement.ws/uploads/dl.png
-||zone-telechargement.ws/uploads/telecharg.jpg
 !
 !---------------------------------Popup--------------------!
 !
@@ -1071,17 +1041,14 @@ $popup,domain=bringmesports.com,chequent.info,fearer.info,internetspeedtracker.c
 ||adv.videomega.tv/adslr.php$image,~image,popup,domain=videomega.tv
 ||adv.videomega.tv/adswmedia.php$image,~image,popup,domain=videomega.tv
 ||adyoulike.omnitagjs.com/fo-static/ar.html?$image,~image,popup,domain=dl.free.fr
-||amazon.com/?_encoding=UTF8&camp=*$image,~image,popup,domain=ziddu.com
-||amazon.fr/?_encoding=UTF8&camp=*$image,~image,popup,domain=ziddu.com
 ||beead.fr/api/finalclicun.htm?cId=*$popup
 ||beead.fr/api/popunder.htm?cId=*$popup
-||boncoin-annonce.com^$image,~image,popup,domain=liens-telechargement.com
 ||bringmesports.com/index.jhtml?partner=*$popup
 ||chequent.info^$popup
+||dwf6crl4raal7.cloudfront.net^$popup
 ||e85440ec98f04725.com^$image,~image,popup,domain=dir50.com
 ||fabolele.com^$popup,third-party
 ||fearer.info^$popup
-||gameforfree.eu/$image,~image,popup,domain=secureupload.eu
 ||goo.gl/b4wgxP$image,~image,popup,domain=videomega.tv
 ||goo.gl/mRyQQw$image,~image,popup,domain=videomega.tv
 ||goo.gl/PsfyZB$image,~image,popup,domain=videomega.tv
@@ -1132,7 +1099,6 @@ $script,domain=ddlfr.pw,third-party
 @@/:\/\/[a-z]+\.info\/.{400,460}/$subdocument,third-party,domain=uptobox.com
 @@|http://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org
 @@|http://$script,third-party,xmlhttprequest,domain=uptostream.com
-@@|https://$image,script,subdocument,third-party,xmlhttprequest,domain=liens-telechargement.com
 @@|https://$script,stylesheet,third-party,xmlhttprequest,domain=ed-protect.org
 @@|https://$script,third-party,xmlhttprequest,domain=uptostream.com
 @@||exclusivomen.com/jsad/advertisement.js$xmlhttprequest,domain=exclusivomen.com
@@ -1153,6 +1119,7 @@ $script,domain=ddlfr.pw,third-party
 @@||afreesms.com/advertisement.js
 @@||anime-ultime.net/js/ads.js
 @@||anime-vf.fr/catalog/view/javascript/ads.js
+@@||assets.beinsports.com/*/scripts/ads.js
 @@||assets.sudouest.fr/so/js/dfp.js
 @@||bc.vc/market.php
 @@||beead.fr^$domain=wakanim.tv
@@ -1163,6 +1130,7 @@ $script,domain=ddlfr.pw,third-party
 @@||calculitineraires.fr/ads.js
 @@||castasap.com/adimages/
 @@||ccmbg.com^$script,domain=linternaute.com
+@@||cdn.stickyadstv.com/mustang/mustang.min.js$script,domain=cheriefm.fr|nostalgie.fr|nrj.fr|rireetchansons.fr
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js
 @@||cheminots.net^$elemhide
 @@||chine-informations.com/javascript/adsbygoogle.js
@@ -1172,6 +1140,7 @@ $script,domain=ddlfr.pw,third-party
 @@||cpalead.com/gwjs.php?pub=
 @@||cpalead.com/locker.php?pub=
 @@||cpalead.com/mygateway.php?pub=
+@@||d1447tq2m68ekg.cloudfront.net/advertisement.js
 @@||damoh.6play.fr$object-subrequest,domain=6play.fr
 @@||debrideur.pw/banner/468/advertisement-AdBlock.js
 @@||deco.fr/js/advertisement.js
@@ -1179,7 +1148,6 @@ $script,domain=ddlfr.pw,third-party
 @@||dinozap.tv/adimages/
 @@||dinozap.tv/adimages/textlink-ads.jpg
 @@||dir50.com^$generichide
-@@||dl-protecte.com/usnt.php
 @@||dramapassion.com/*/advertisement*.js
 @@||ebz.io^$domain=rock.ouifm.fr|radiofg.com|radioneo.org|rfm.fr|virginradio.fr
 @@||ethyaneu.com
@@ -1202,8 +1170,6 @@ $script,domain=ddlfr.pw,third-party
 @@||freegamehosting.eu/ads/advertisement.js
 @@||freegamehosting.nl/ads/advertisement.js
 @@||french-movies.net/advertisement.js
-@@||fwmrm.net/ad/*?caid=*Canalplus_Desktop*$domain=canalplus.fr
-@@||fwmrm.net/ad/g/*?caid=*canalplus_xml_web*$domain=c8.fr|cstar.fr
 @@||gala.fr/ads.js
 @@||gameart.eu/medias/files/ad-fixed.css
 @@||generation-nt.com/img/pubs/ads.gif
@@ -1226,14 +1192,12 @@ $script,domain=ddlfr.pw,third-party
 @@||kissanime.com/Ads/ads.js
 @@||leveldown.fr/dist/js/advertisement.js
 @@||leversions.info^$domain=userscloud.com
-@@||liens-telechargement.com^$generichide
 @@||louccrossc.com^$domain=tf1.fr
 @@||loxtk.com/*GID=
 @@||m.bestofmedia.com/sfp/images/js/advertisement.js
 @@||mail-temporaire.fr/scripts/ads_php/banner.js
 @@||mairie-soustons.fr/modules/mod_jpayday/js/advertisement.js
 @@||majorgeeks.com/*/advertisement.js
-@@||malekal.com/ads/ads_php/banner.js
 @@||mega-debrid.eu/JS/advertisement.js
 @@||megadown.us/advertisement.js
 @@||metatv.org/wp-content/themes/metatv/js/ads.js
@@ -1249,7 +1213,10 @@ $script,domain=ddlfr.pw,third-party
 @@||onvasortir.com/ads.js
 @@||onvasortir.com/fuckadblock.min.js
 @@||ops.prismamediadigital.com/js/advertisement.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=beinsport-streaming.com|dl-protecte.com|dropapk.com|emule-island.ru|multifilemirror.com|uptobox.com|voirfilms.info
+@@||pagead2.googlesyndication.com/pagead/js/*/osd.js$domain=malekal.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=malekal.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=beinsport-streaming.com|dl-protecte.com|dropapk.com|emule-island.ru|malekal.com|multifilemirror.com|uptobox.com|voirfilms.info
+@@||pagead2.googlesyndication.com/pub-config/*/ca-pub-*.js$domain=malekal.com
 @@||phoenix-rebirth.fr/js/ads.js
 @@||pics-news.lesechos.com/js/pub/dfp.js
 @@||play.spotify.edgekey.net/client/*/js/advertisement.js
@@ -1295,6 +1262,7 @@ $script,domain=ddlfr.pw,third-party
 @@||tuto4you.fr/wp-includes/advertisement.js
 @@||ultimedia.com/js/advertisement.js
 @@||uplea.com/js/advertisement.js
+@@||uplod.cc/*/js/advertisement.js
 @@||upshare.org/advertisement.js
 @@||vgunetwork.com/public/js/jsLoader.js?adType=foobar
 @@||videomega.tv/*/advertising.php?id=
@@ -1321,7 +1289,6 @@ a2zapk.com,dna.fr,estrepublicain.fr,lalsace.fr,leprogres.fr,uptostream.com#@#.te
 apkmirror.com#@#.advertisement-text
 divinity-gaming.fr#@#.widget-ad
 lesinrocks.com#@#.adtech
-liens-telechargement.com#@#a[style]
 metronews.fr#@#.push-component
 notre-planete.info#@##pub_meh
 nrj-play.fr#@#.ad-zone
@@ -1333,11 +1300,11 @@ safelinkreviewed.com#@#.ad_middle
 skstream.co#@#.ad-placement
 skstream.co#@#.ad-unit
 skstream.co#@#.side-ad
-atlasweb.net,buzzarena.com,i-voyages.net,identifiants-hotspot-wifi-gratuit.fr,nordpresse.be,phonandroid.com,plusdebonsplans.com,rallycrossfrance.info,topnormandie.com#@##adsense
-apkmirror.com,beinsport-streaming.com,dropapk.com,emule-island.ru,lesinrocks.com,uptobox.com,voirfilms.info#@#.adsbox
-atlasweb.net,chine-informations.com,clashofclans.fr,consovape.com,decerto.fr,easyfreesms.com,identifiants-hotspot-wifi-gratuit.fr,multifilemirror.com,needrom.com,papergeek.fr#@#.adsbygoogle
-atlasweb.net,buzzarena.com,identifiants-hotspot-wifi-gratuit.fr,phonandroid.com,rallycrossfrance.info#@#.an-advert-banner
-atlasweb.net,buzzarena.com,identifiants-hotspot-wifi-gratuit.fr,phonandroid.com,rallycrossfrance.info#@#.an-sponsored
+atlasweb.net,buzzarena.com,i-voyages.net,identifiants-hotspot-wifi-gratuit.fr,malekal.com,nordpresse.be,phonandroid.com,plusdebonsplans.com,rallycrossfrance.info,topnormandie.com#@##adsense
+apkmirror.com,beinsport-streaming.com,cheriefm.fr,dropapk.com,emule-island.ru,lesinrocks.com,nostalgie.fr,rireetchansons.fr,uptobox.com,voirfilms.info#@#.adsbox
+atlasweb.net,chine-informations.com,clashofclans.fr,consovape.com,decerto.fr,easyfreesms.com,identifiants-hotspot-wifi-gratuit.fr,malekal.com,multifilemirror.com,needrom.com,papergeek.fr#@#.adsbygoogle
+atlasweb.net,buzzarena.com,identifiants-hotspot-wifi-gratuit.fr,malekal.com,phonandroid.com,rallycrossfrance.info#@#.an-advert-banner
+atlasweb.net,buzzarena.com,identifiants-hotspot-wifi-gratuit.fr,malekal.com,phonandroid.com,rallycrossfrance.info#@#.an-sponsored
 urle.co#@#.myTestAd
 !
 !-----------------Facebook sidebar blocker 20122016 (source:facebook.adblockplus.me)-----------------!
@@ -1473,14 +1440,6 @@ facebook.com###pagelet_games_rhc
 4shared.com##DIV[class="small descbox"]
 4shared.com##IMG[class="absmid"]
 4shared.com##SPAN[class="absmid"]
-4upfiles.com###news_last
-4upfiles.com###pay_div
-4upfiles.com##.fb-comments.fb_iframe_widget
-4upfiles.com##.footerag
-4upfiles.com##.prem
-4upfiles.com##A[href="http://4upfiles.com/make_money.html"]
-4upfiles.com##A[href="http://4upfiles.com/n11-make-money-with-4up-now.html"]
-4upfiles.com###plans_alertpay
 54.200.80.90###dispute
 54.200.80.90###footerWrap
 54.200.80.90##.banner-wrapper
@@ -1506,6 +1465,9 @@ absba.org##TABLE[id="table3"][class="tborder"]
 actualitte.com###ba_top
 ad7.biz##.uc
 ad7.biz##DIV[style="display:inline-block;"]
+add0n.com###inshort > tbody > tr:nth-of-type(1) > td
+add0n.com###inshort > tbody > tr:nth-of-type(2) > td
+add0n.com##.spacer-a
 adecco.fr##.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.promotionalPopupDialog
 adf.ly###cashpiggyTag
 adf.ly###uservoice-feedback
@@ -1761,8 +1723,10 @@ clients.cdiscount.com##.ftAdPaves
 clique.tv###dgd_scrollbox-27989
 clk.im##.site-logo
 closermag.fr###container-nl-1
+cloudyfiles.org###container > div:nth-of-type(2)
 cloudyfiles.org###premium
 cloudyfiles.org##div:nth-of-type(6)
+cloudyfiles.org##div:nth-of-type(7)
 club40.fr##DIV[style="position:absolute; left:14; top:827px; width:166px; heigth:40px;"]
 club40.fr##img[src="http://www.yacast.fr/mail/club40/09-Pure_charts_logo_HD2.gif"]
 club40.fr##IMG[src="http://www.yacast.fr/mail/club40/V2/images/publicite.gif"]
@@ -1861,7 +1825,9 @@ dailymotion.com##.DiscoverLink__container___2QCHR
 dailymotion.com##.DiscoverLink__discoverButton___2NwXH
 dailymotion.com##.dmp_AdvertisingConsole.dmp_is-hidden
 dailymotion.com##.dmp_Watermark-img[alt="Logo partenaire Dailymotion"]
+dailymotion.com##.np_transition.np_ButtonWatermark
 dailymotion.com##.np_Watermark
+dailymotion.com##.Video__ads_xlarge___2293n
 dailyuploads.net##.adsbygoogle:nth-of-type(1)
 dailyuploads.net##.adsbygoogle:nth-of-type(2)
 dailyuploads.net##.adsbygoogle:nth-of-type(3)
@@ -2004,9 +1970,15 @@ dl.free.fr##TD[id="google"]
 dl.free.fr##TD[style="width:400px;text-align: center"]
 dl.free.fr##UL[id="top-menu-main"]
 dl.free.fr##UL[id="top-menu-nav"]
+dl-protect1.com##[style="font-weight:bold;font-size:6px;color:#00B718;"]
+dl-protect1.com##.content > B
+dl-protect1.com##.footer
+dl-protect1.com##.header
+dl-protect1.com##.trtbl
+dl-protect1.com##a[href^="http://trafficlord.net/"]
 dl-protecte.com##.content > center > center > center
-dl-protecte.org##.footer
 dl-protecte.com##center:nth-of-type(2) > center:nth-of-type(2)
+dl-protecte.org##.footer
 dl-protecte.org##center:nth-of-type(3)
 dll-files.com###fixer_button
 dll-files.com###fixer_download
@@ -2024,6 +1996,7 @@ doc-etudiant.fr###beead_cadre
 doc-etudiant.fr###beead_flash
 doc-etudiant.fr###beead_page
 dockers.com##.email-signup
+docteurclic.com##.toppub
 dofus.com###ad_home_top_right
 doulci.net##.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix
 douploads.com##.downicon
@@ -2048,12 +2021,6 @@ download.hr##.download_desc_left_box
 download.hr##.download_mirror_row + .download_mirror_info
 download.hr##.file_download_box
 downloadcrew.com###popupOverlay
-downloads.ziddu.com##.white.text18
-downloads.ziddu.com##IFRAME[width="300"][height="250"]
-downloads.ziddu.com##TD[valign="middle"][height="110"]
-downloads.ziddu.com##TD[valign="top"][height="195"]
-downloads.ziddu.com##TD[width="300"][valign="top"]
-downloads.ziddu.com##[width="350"]
 dpstream.net##DIV[style="border:1px #FFFF00 solid;color:#FFFF00;background-color:#000000;font-weight:bold;font-size:15px;padding:5px;"]
 drhtv.tv##.bannerLive
 driverswizard.com##.top_02
@@ -2277,6 +2244,8 @@ footao.tv##.pb.p3
 footao.tv##.rc.wbulk
 footao.tv##.stn.rc.wbulk[href^="//www.paypal.com/cgi-bin/webscr"]
 footballfrance.fr##IMG[src="http://comandclick.com/accounts/default1/banners/6a3f2395.gif"]
+footdirect.stream###html1
+footdirect.stream##DIV[style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;"]
 footeo.com###sb-container
 footeo.com###sb-overlay
 footmercato.net##.reg-ban.mauto
@@ -2519,9 +2488,6 @@ htcmania.com##[style="padding: 6px 0px 0px 0px"] > .tborder
 hubturkey.net##FIELDSET
 huffingtonpost.fr##.desktop-only.newsletter-toaster
 huffingtonpost.fr##.no-ad.follow-huffpost
-hugefiles.net###om-footer-postal-body
-hugefiles.net##DIV[style="border: 0px solid black; width:728px;"]
-hugefiles.net##TD[style="padding-bottom:15px;"]
 hulkload.com###dldback
 hulkload.com###earn_money
 hulkload.com###premium_features2
@@ -2820,6 +2786,7 @@ lemonde.fr##.ob-widget-header
 lemonde.fr##.ob-widget-items-container
 lemonde.fr##.ob_what
 lemonde.fr##[data-gtm="ad"]
+lemonde.fr##[href="http://progresser-orthographe.lemonde.fr/tracking/other"]
 lemondeinformatique.fr###espace_habillage
 lemondeinformatique.fr###TB_window
 leparisien.fr##.bloc300.clearfix
@@ -2865,33 +2832,6 @@ lesitedumariage.com##.modal
 lesitedumariage.com##.underlay
 lesmobiles.com###skinclick
 lesmobiles.com##DIV[id="pub_right"]
-letitbit.net###bornpay_frame
-letitbit.net###bornpay_frame > IFRAME
-letitbit.net###play_btn
-letitbit.net###pointer
-letitbit.net###premium_button
-letitbit.net###premium_form + * + P[style="text-align:center; font-size:15px"]
-letitbit.net###premium_form + P[style="text-align:center; font-size:15px"]
-letitbit.net###tariffs_place
-letitbit.net###top_slider
-letitbit.net##.banner-link-left
-letitbit.net##.banner-link-right
-letitbit.net##.clink.lid-downloader-link
-letitbit.net##.content[style="padding-bottom:0"]
-letitbit.net##.row.test-row
-letitbit.net##.spec-list.centered
-letitbit.net##[action="/sms/check2.php"] + * + * #downloader_btn
-letitbit.net##A[class="clink lid-skymonk-link"]
-letitbit.net##DIV[class="btnround center clink lid-file-search"]
-letitbit.net##DIV[class="clink lid-skymonk-div"]
-letitbit.net##DIV[id="img_button_game"]
-letitbit.net##DIV[id="mailru_game_leftclicks"]
-letitbit.net##DIV[style="height:200px"]
-letitbit.net##H1[style="font-size:30px; position:relative; text-align:left; padding-left:50px; margin-bottom:35px"]
-letitbit.net##DIV[style="padding:0px  0 0px 310px; height:62px"]
-letitbit.net##IMG[src="/images/download/test/img_sigmal_free.jpg"]
-letitbit.net##IMG[src="/images/download/test/img_sigmal_premium.jpg"]
-letitbit.net##INPUT[style="width:100%; text-align:center; white-space:normal"]
 leton.tv###timer2
 letour.fr###carre
 letour.fr###epubDyn
@@ -2920,13 +2860,6 @@ lien-torrent.com##[color="#cc3333"] + * > SPAN[style="color:white;mso-themecolor
 lien-torrent.com##A[href="http://masteroids.com/skylite"]
 lien-torrent.com##DIV[style="-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;border:1px solid #8E8E8E;background:#111; padding-top:1px; padding-left:8px; width:160px; height:30px; color:#F90; font-size:16px; font-family: Verdana, Geneva, sans-serif; font-weight:bold; padding-top:3px; margin-right:50px; text-align:center"]
 lien-torrent.com##IFRAME[width="728"][height="90"]
-liens-telechargement.com##[href="https://www.dl-protecte.com/telecharger.php"] > IMG
-liens-telechargement.com##a[href^="http://redirect.adraccoon.com/"]
-liens-telechargement.com##center:nth-of-type(2) > center:nth-of-type(2)
-liens-telechargement.com##center:nth-of-type(3)
-liens-telechargement.com##.button.spo-btn-link
-liens-telechargement.com##.footer
-liens-telechargement.com##.magic + * + * + CENTER
 lienscash.com##.cont_pub3_4
 lienscash.com##.fb-like.fb_edge_widget_with_comment.fb_iframe_widget
 lienscash.com##.pub2
@@ -3064,12 +2997,19 @@ maisonbrico.com###uhSlider
 majax31.fr##BODY
 majax31lsnotdown.blogspot.com##BODY
 malavida.com###mv_cab_banner
+malekal.com##[style="display: block; height: 463px;"]
+malekal.com##[style="display: block; height: 600px;"]
+malekal.com##[style="display: block; height: 90px;"]
+malekal.com##[style="display: inline-block; width: 300px; height: 250px;"]
+malekal.com##[style="display:inline-block;width:728px;height:90px"]
 mamahd.com###ad_overlay
 manga-sanctuary.com##DIV[style="background:#444;color:#fff;font-size:14px;padding: 5px;margin: 0 0 10px;width:290px;height:300px;"]
 manga-sanctuary.com##DIV[style="background:#444;color:#fff;font-size:14px;padding: 5px;margin: 0 auto 10px;width:960px;height:90px;"]
 mangastream.com##.pull-right.message-ld
 mappy.com###UserSurveyView
 mappy.com##DIV[id="bva_layer"]
+marmiton.org###m_bandeau_hipush
+marmiton.org###precontent
 marts.pw##IMG[style="left: 530px; position: absolute; top: 0px;"]
 master-prez.com##FIELDSET[class="fieldset_annonce"]
 matchendirect.fr###colonne_droite > div:nth-of-type(3)
@@ -3115,6 +3055,8 @@ mediapart.fr###toolbar
 mediapart.fr###widget_main
 mediapart.fr##.content-article.node.node-article.node-article-full.node-full + .content-article
 mediapart.fr##.marketing-region.mu-mkt-design
+mediapart.fr##.mkt-banner
+mediapart.fr##.offre-basique
 mediapart.fr##.pub.pub-basique.offre-basique
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -3322,9 +3264,6 @@ noscript.net##A[href="http://noscript.net/jr/cf/fyunwhxts59CHRUjr"]
 noscript.net##A[href="http://noscript.net/li/rf/oyunwhxts57RWSLli"]
 noscript.net##A[href="http://noscript.net/ps/rc/mvrkteuqp99RTSLps"]
 noscript.net##A[href="http://noscript.net/pv/ot/vmibkvlhg67OHDGpv"]
-nostalgie.fr###prerollModal
-nostalgie.fr##.in.fade.modal-backdrop
-nostalgie.fr##.section-mea.area
 nosteam.ro###stickynote1
 nosteam.ro##CENTER
 nosteam.ro##DIV[style="font-family:georgia; font-size:25px; line-height:50px; font-weight:bold; text-align:center"]
@@ -3361,11 +3300,6 @@ nowvideo.sx###aad
 nowvideo.sx###aad2
 nowvideo.sx##DIV[style="width:300px; height:250px; border:1px solid #CCC; background:#FFF; display:block; position:absolute; bottom:0; left:0;"]
 nowvideo.sx##A[style="height:45px; display:block; -webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px; line-height:45px; border:1px solid #CCC; font-size:18px; font-family:Verdana; font-weight:bold; text-align:center; text-decoration:none; color:#C0C0C0; margin-bottom:15px;"]
-nrj.fr##.btn-dld-itunes.sprite-wr-btn-itune.sprite
-nrj.fr##.pub-text
-nrj.fr##.ranking-itune
-nrj.fr##DIV[class="header-pub"]
-nrj.fr##IMG[class="pub"]
 nrj12.fr###FBEnrjContainer
 nrj12.fr###flashTuto
 nrj12.fr###flashTuto1
@@ -3465,6 +3399,8 @@ passeportsante.net###flashcontent
 passeportsante.net###shadow_encart
 passeportsante.net##.pubDroiteText
 passeportsante.net##.subscribeZone
+pastebin.com###abrpm
+pastebin.com###paypal-overlay
 patchmypc.net##.blue.button[href="scup"]
 pausecafein.fr###related-top
 pcastuces.com###rubrique
@@ -3482,6 +3418,7 @@ pcinpact.com##A[href="http://bit.ly/TylEsy"]
 pcinpact.com##A[style="display: block; height: 1200px; margin:0; position: absolute; width: 100%; background: url('http://bit.ly/12R9UYz') no-repeat scroll center top transparent; z-index: -5 "]
 pcinpact.com##IMG[src="/images/clair/ban-premium.png"]
 pcloud.com##.banwrap
+pcmag.com###cboxContent
 pdfmagazines.org##IMG[src="/templates/d5-cinema/images/download-prov.png"]
 pedrosoares.fr##.alignnone.size-full.wp-image-9689
 pedrosoares.fr##.social-ring
@@ -3532,8 +3469,6 @@ planetepeople.com###inscription_newsletter
 play.cheriefm.fr###header-banner
 play.google.com##.cluster-background.id-track-click[style="background-color:#7a8b9a"]
 play.google.com##.zero-card.id-track-click.cluster-background
-play.nostalgie.fr###header-banner
-play.rireetchansons.fr###header-banner
 play.spotify.com###playNowSignUp + * + #notification-area
 play.spotify.com##.content.upsell-background.desktop-background.show
 playerhd2.pw##.play-wrapper
@@ -3612,21 +3547,6 @@ protect-links.com##.footer
 protect-links.com##IMG[src="images/logo.png"]
 protect-links.com##TD[align="center"]
 protect-links.com##TD[style="font-family: Verdana, Arial;font-size: 10px;font-weight: bold;color: #000000; text-decoration:none;"]
-protect-zt.com###aswift_0
-protect-zt.com###aswift_0_anchor
-protect-zt.com###aswift_1
-protect-zt.com###aswift_1_anchor
-protect-zt.com###aswift_2
-protect-zt.com###aswift_2_anchor
-protect-zt.com##.content > div > .adsbygoogle
-protect-zt.com##center:nth-of-type(2) > .adsbygoogle
-protect-zt.com##center:nth-of-type(2) > center:nth-of-type(2)
-protect-zt.com##center:nth-of-type(2) > div > .adsbygoogle
-protect-zt.com##center:nth-of-type(3) > .adsbygoogle
-protect-zt.com##center:nth-of-type(3) > div > .adsbygoogle
-protect-zt.com##center:nth-of-type(3)
-protect-zt.com##IMG[src="https://www.zone-telechargement.ws/uploads/ddl.JPG"]
-protect-zt.com##IMG[src="https://www.zone-telechargement.ws/uploads/dl.png"]
 protectup.com##A[href="http://ul.to/ref/3093915"]
 protectup.com##DIV[class="bottom_content"]
 protectup.com##DIV[class="footer"]
@@ -3787,8 +3707,6 @@ rgho.st###fixblock > .hidden-xs.text-center.alert-warning.alert
 rgho.st##.hidden-xs.m-b-0.text-center.alert-warning.alert
 rgho.st##.list-group-item.file-info-footer
 rgho.st##.visible-lg-block.visible-md-block.panel-default.panel
-rireetchansons.fr##.area-carousel.area
-rireetchansons.fr##.block.pub
 riurl.com##TABLE[style="background-color: #1CA7F6; border-style: dotted; border-width: 1px;"]
 rl-team.net###glad
 rl-team.net##.li.clearfix
@@ -3870,14 +3788,6 @@ secretsdujeu.com##[style="position:absolute;top:12px;right:12px;"] IMG
 secure.sitelock.com##.header-right
 secure.sitelock.com##.product-images
 secure.sitelock.com##.text-header.get_protect
-secureupload.eu###headerbox.jumbotron
-secureupload.eu##.btn.btn-lg.btn-block.btn-yellow
-secureupload.eu##.btn.btn-success.btn-lg.btn-block
-secureupload.eu##IMG[src="http://www.secureupload.eu/img/downloadalt.png"]
-secureupload.eu##IMG[src="http://www.secureupload.eu/gfx/SecureUpload_Banner.png"]
-secureupload.eu##P[style="font-size: 25px;color:white;letter-spacing: 3px;margin-top: -28px"]
-secureupload.eu##[role="navigation"] + * + * .col-sm-3.premium
-secureupload.eu##[role="navigation"] + * + * + * + * .col-sm-3.premium
 securityxploded.com##A[href="advertise.php"]
 securityxploded.com##A[href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/eal1Rz/download/index.htm"]
 securityxploded.com##IMG[src="http://googleadblocker.com/images/googleadblocker_web_banner_600.jpg"]
@@ -3920,7 +3830,6 @@ share4web.com##FORM[onsubmit="if(this.elements['smsAnswer'].value.length > 0)\7b
 share4web.com##IMG[src="/img/no.png"]
 share4web.com##P[style="font-weight: bold"]
 sharecast.to###closeb
-shared.com##.text-center
 shareflare.net##.clink.lid-downloader
 shareflare.net##.clink.lid-premium_btn
 shouldiremoveit.com##IMG[src="Images/tag-sl.png"]
@@ -4081,7 +3990,6 @@ stream-foot.tv##.social-text
 stream4u.eu###memberad
 streamay.com###PapaGooGorHDVid
 streamay.com##.facebook_square
-streamhd.eu###html3
 streamhd.eu##IMG[src="http://s16.postimage.org/gxdzc32xx/lshlogo.jpg"]
 streaming-az.com##.megvv
 streaming-foot.info##IMG[src="http://www.streaming-foot.info/images/blanccloses.png"]
@@ -4093,6 +4001,7 @@ streamingdivx.com###dwonload_friendly
 streamingdivx.com##.pub_300
 streamingdivx.com##.topbyillyx
 streamlive.to###adblockplus
+streamonsports.com##.btn.btn-danger.btn-block.watch-now-orig
 streamov.com##A[class="usenet"]
 streamov.com##DIV[id="ads_bot_300"]
 streamov.com##DIV[id="fade"]
@@ -4113,6 +4022,8 @@ sudouest.fr##.premium-actions.visible-unlogged > .card.sidebar-premium
 sudouest.fr##.visible-unlogged-inline.visible-logged-inline > .btn.btn-premium.btn-small
 sudouest.fr##IMG[src="/img/ico_publicite.gif"]
 sudradio.fr###popin
+sunhd.info###ra9e
+sunhd.info###total
 supercore.admanmedia.fr###video_container
 supertoinette.com###ads-300-250-bas
 support.microsoft.com###BrowserInfoBanner
@@ -4125,6 +4036,8 @@ supprimerspyware.delete-spyware.com##IMG[src="http://supprimerspyware.delete-spy
 supprimerspyware.delete-spyware.com##IMG[src="http://supprimerspyware.delete-spyware.com/wp-content/uploads/sites/3/2013/07/product-certification.gif"]
 supprimerspyware.delete-spyware.com##IMG[src="http://supprimerspyware.delete-spyware.com/wp-content/uploads/sites/3/2013/07/spyhunter-review1.jpg"]
 supprimerspyware.delete-spyware.com##IMG[src="http://supprimerspyware.delete-spyware.com/wp-content/uploads/sites/3/2013/07/testimonial.png"]
+suprafiles.org###container > div:nth-of-type(2)
+suprafiles.org##div:nth-of-type(7)
 suprafiles.org##DIV[style="width:1000px; text-align: left; margin-bottom:-100px;"]
 sur-la-toile.com###abmess
 sur-la-toile.com##.msg-inscr
@@ -4140,6 +4053,7 @@ systemexplorer.net###wsen
 systemexplorer.net##.sead
 tablette-tactile.net##.leadinModal-content
 tampermonkey.net###_my_ad
+tampermonkey.net##.adventing
 tawjihnet.net###panl475ypeln
 tayo.fr###pioubhaut
 tchatche.com###head
@@ -4435,6 +4349,9 @@ upload.ee##div > span:nth-of-type(1)
 upload.ee##table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
 upload.ee##table:nth-of-type(3) > tbody > tr > td:nth-of-type(2)
 upload.ee##tr:nth-of-type(5) > td > div
+upload4earn.com##.itemrow
+upload4earn.com##.mngez_freedown
+upload4earn.com##INPUT[value="Premium Download"]
 uploadbox.co###jwPlayerContainer_logo
 uploadable.ch###anonymous
 uploadable.ch###download_tab
@@ -4449,6 +4366,9 @@ uploadable.ch##.speedslider.slow
 uploadbb.co###afull
 uploadbb.co##.jwlogo
 uploadbb.co##[style="position: absolute; bottom: 0px; left: 0px; width: 100%; height: 100%; background-color: transparent; z-index: 9998; text-align: center; vertical-align: middle; color: white;"]
+uploadburst.com###method_premium.ui-btn-hidden
+uploadburst.com##IMG[src="https://uploadburst.com/images/mypremiumimage.PNG"]
+uploadburst.com##INPUT[value="téléchargement premium "]
 uploaded.net##.aT[style="width:295px"]
 uploaded.net##[action="register"] > .prem
 uploaded.net##TR[class="feature aB"]
@@ -4457,14 +4377,6 @@ uploadex.com###btn_download_block > .row > center
 uploadex.com###container > h2 > b
 uploadex.com##body > .container:nth-of-type(4) > form > .col-lg-12.panel-default.panel:nth-of-type(4) > .row
 uploadex.com##body > .container:nth-of-type(4) > form > .panel-default.panel:nth-of-type(3) > .table-striped.table.file_slot > tbody > tr:nth-of-type(5)
-uploading.com###splash
-uploading.com##.cleanlab_banner
-uploading.com##.get_desktop_banner.clearfix
-uploading.com##.method_box.premium_method.no_a
-uploading.com##.window.fm_window.premium_notification
-uploading.com##DIV[class="premium_download png_bg"]
-uploading.com##DIV[id="choose_membership_container"]
-uploading.com##SPAN[class="cleanlab"]
 uploadocean.com###container > div:nth-of-type(2)
 uploadocean.com##.ac_adbox_inner
 uploadocean.com##.ac_container:nth-of-type(8) > .ac_title_wrapper > .ac_title
@@ -4505,12 +4417,12 @@ uploadshub.com###container > table:nth-of-type(2) > tbody > tr > td:nth-of-type(
 uploadshub.com###container > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > div
 uploadshub.com###container > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
 uploadshub.com###container > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > div
-uplod.ws##.adsbygoogle
-uplod.ws##.dl-plus.col-md-12.text-center
-uplod.ws##.fmore
-uplod.ws##.pt20.col-md-4
-uplod.ws##.row.pt20.hidden-xs
-uplod.ws##.text-center.col-md-12.dl-plus
+uplod.cc##[href="https://www.instagram.com/rashed.me/"]
+uplod.cc##[style="font-family: \"courier new\" , \"courier\" , monospace; font-size: x-large;"]
+uplod.cc##SPAN[style="font-family: \"courier new\" , \"courier\" , monospace; font-size: xx-small;"]
+uplod.cc##.btn.btn-info.btn-dl-plus
+uplod.cc##.clearfix
+uplod.cc##.fmore
 uppit.com###\33 36
 uppit.com###catfish
 uppit.com##.ads
@@ -4525,7 +4437,6 @@ uptobox.com##.cell:nth-of-type(1) > .white_cell
 uptobox.com##.col_name_green > font > b
 uptobox.com##.col_name_blue[style="width:300px;text-align: center;"]
 uptobox.com##.img_cell[style="background-color:#cee4ef"]
-uptobox.com##center > table > tbody > tr > td:nth-of-type(1)
 uptobox.com##center > table > tbody > tr > td:nth-of-type(3)
 uptobox.com##A[href="https://uptobox.com/images/uptobox_unicorn.png"]
 uptobox.com##P[style="font-size:14px; font-weight:bold;"]
@@ -4538,7 +4449,6 @@ urbanterror.info###spons1
 urbanterror.info###spons2
 urbanterror.info###spons3
 urbanterror.info###spons4
-urle.co##.banner
 urle.co##.box-main + .text-left
 urle.co##.panel-body
 urle.co##DIV[style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"]
@@ -4601,6 +4511,10 @@ viamichelin.fr##IFRAME[style="width: 300px; height: 90px;"]
 viamichelin.fr##IFRAME[style="width: 468px; height: 60px;"]
 viacredit.net##IFRAME[width="468"]
 video.autoplus.fr###kplayer_c9dc73d6807s
+video.autoplus.fr###toaster-abo
+video.autoplus.fr##.um_ultimedia_wrapper_videoWrapper
+video.autoplus.fr##[style="width: 1px; height: 1px; position: absolute; top: -100px; left: -100px;"]
+video.autoplus.fr##[style="width: 1px; height: 1px; position: absolute; top: -100px; left: -100px;"] + * > *
 video.unrulymedia.com###brand_bar
 video.unrulymedia.com###brand_bar_left_image
 video.unrulymedia.com###brand_bar_right_image
@@ -4769,6 +4683,7 @@ yandex.ru##.main > .main__cell > .main__content > .content > .slide-down_js_init
 yandex.ru##.main > .main__cell > .main__content > .content > .slide-down_opened_yes.slide-down_js_inited.i-bem.slide-down > .link_js_inited.i-bem.slide-down__title.link_inner_no.link_pseudo_yes.link > .slide-down__title-text
 yandex.ru##.main > .main__cell > .main__content > .content > .slide-down_opened_yes.slide-down_js_inited.i-bem.slide-down > .link_js_inited.i-bem.slide-down__title.link_inner_no.link_pseudo_yes.link > .slide-down__select-tick
 yandex.ru##.main > .main__cell > .main__content > .content > .slide-down_opened_yes.slide-down_js_inited.i-bem.slide-down > .slide-down__content > .static-text > .static-text__par
+yggtorrent.com###vpn_link
 yggtorrent.com###warning_download
 yggtorrent.com##TR > TD > TABLE > TBODY > TR:has(a[href$="/go_vpn"])
 yoox.com###layerFirstVisit
@@ -4842,13 +4757,8 @@ zone-telechargement.eu##a[href="/vpn-gratuit.html"]
 zone-telechargement.eu##a[href="http://www.zone-telechargement.eu/dl.html"]
 zone-telechargement.eu##h4:nth-of-type(2)
 zone-telechargement.eu##h4:nth-of-type(1) > span
-zone-telechargement.ws###pubzt-rightside
-zone-telechargement.ws##a[href="/xyz00/"]
-zone-telechargement.ws##.corps > a[href^="http://redirect.admeerkat.com/"]
-zone-telechargement.ws##.corps > a[href^="http://redirect.adraccoon.com/"]
-zone-telechargement.ws##a[href="https://www.zone-telechargement.ws/downl.php"]:nth-of-type(2)
-zone-telechargement.ws##a[href="https://www.zone-telechargement.ws/free/"]
-zone-telechargement.ws##IMG[src="https://www.zone-telechargement.ws/uploads/ddll.png"]
+zone-telechargement1.com##[style="color:blue; font-size: 13pt;cursor: pointer;"]
+zone-telechargement1.com##a[href^="http://trafficlord.net/"]
 zone-telechargements.com###bannertop-toggle
 zone-telechargements.com##DIV[style="padding: 7px;"]
 zone-torrent.net##IMG[src="images/pub.gif"]
@@ -4876,8 +4786,7 @@ chronofoot.com,fff.fr,gentside.com,maxisciences.com,ohmymag.com,ticket-surf.com#
 doc-etudiant.fr,radiofg.com,radioneo.org,rfm.fr,rock.ouifm.fr###beead_background
 emule-island.ru,lienscash.com,multiup.org,radiofg.com,radioneo.org,rfm.fr,rock.ouifm.fr,sortiesdvd.com,tchatche.com###beead_frame
 ad7.biz,zdnet.fr###catfish
-cherie25.fr,nrj12.fr,pcmag.com###cboxContent
-armani.com,cherie25.fr,houra.fr,lavoixdunord.fr,mirrorupload.net,nrj12.fr,originalpenguin.co.uk,pcmag.com,pharmacien.fr,pluzz.francetv.fr,pourquoidocteur.fr,pro-zik.ws,sarenza.com,streaming-sport.tv,tisseo.fr,trovit.fr,tv-replay.fr,tv3.co.nz###cboxOverlay
+armani.com,houra.fr,lavoixdunord.fr,mirrorupload.net,nrj12.fr,originalpenguin.co.uk,pcmag.com,pharmacien.fr,pluzz.francetv.fr,pourquoidocteur.fr,pro-zik.ws,sarenza.com,streaming-sport.tv,tisseo.fr,trovit.fr,tv-replay.fr,tv3.co.nz###cboxOverlay
 mirrorupload.net,pluzz.francetv.fr,tisseo.fr,trovit.fr,tv-replay.fr###cboxWrapper
 dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###closeFrame_banner
 dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###closeFrame1
@@ -4885,9 +4794,9 @@ dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###closeFrame1_banne
 dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###closeFrame2
 dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###closeFrame2_banner
 armani.com,coder143.com,houra.fr,originalpenguin.co.uk,pharmacien.fr,pluzz.francetv.fr,pourquoidocteur.fr,pro-zik.ws,sarenza.com,streaming-sport.tv,tisseo.fr,valentino.com###colorbox
-dinozap.com,dinozap.info,dinozap.tv,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###countDown
+dinozap.com,dinozap.info,dinozap.tv,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw,sunhd.info###countDown
 afreesms.com,comment-telephoner-moins-cher.com,doulci.net,esetindia.com,lemondeinformatique.fr###dialog
-dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###divPanel
+dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw,sunhd.info###divPanel
 cheminots.net,forum.gamespowerita.com###document_modal
 37.187.173.205,generatemylinks.com###droite
 cinemavk.com,ddl-island.ru,emule-island.ru###droite_bas
@@ -4908,6 +4817,7 @@ canalplus.fr,laptopspirit.fr###habillage
 carnet.lindependant.fr,cartoonnetwork.fr###header
 cast3d.tv,direct-stream.biz,direct-stream.org,ukcast.tv###hideall
 cricfree.me,firstrowusa.eu,myp2p.sx,sportsstreams.eu,streams.tv###hiddenBannerCanvas
+footdirect.stream,streamhd.eu###html3
 commentcamarche.net,linternaute.com###info_modale_ct
 agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericulture.org,marche-populaire.com,noel.org,vide-dressing.org,vide-greniers.org,vide-maisons.org###inNewsBlock
 al-kanz.org,islametinfo.fr###itro_opaco
@@ -4919,35 +4829,33 @@ cours-gratuits.toutapprendre.com,notre-planete.info###modal
 agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericulture.org,marche-populaire.com,noel.org,vide-dressing.org,vide-greniers.org,vide-maisons.org###newsAlpha
 eastpak.com,kipling.com###newsletter_popup
 autodeclics.com,mensup.fr###notif_adblock
-dealbuzz.fr,jaccede.com,jeanmarcmorandini.com,papergeek.fr,phonandroid.com,plusdebonsplans.com###onesignal-popover-dialog
+dealbuzz.fr,jaccede.com,jeanmarcmorandini.com,nordlittoral.fr,papergeek.fr,phonandroid.com,plusdebonsplans.com###onesignal-popover-dialog
 animesvostfr.net,stream-vostfr.com###over
 degroupnews.com,proximus.be###overlayer
 cinemay.com,filmsstreaming.com,matchfootdirect.com,tunistream.com###pb1
 c8.fr,cstar.fr###popinNewsletter
-cheriefm.fr,nrj.fr,rireetchansons.fr###popins
 notretemps.com,profilewatch.org###popup
 alibabuy.com,cuisineaz.com,emule-island.ru,freefoot.fr,gouv.fr,i23.in,mistergooddeal.com,programmesradios.com,service-public.fr,tv-direct.fr,vie-publique.fr###pub
 pronosoft.com,yopmail.com,yopmail.fr,yopmail.net###pub1
 directmatin.fr,radio.funradio.fr###publicite
 avis-consommateur.fr,lettre-de-resiliation.fr###publicitePrioritaire
-dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###second_ads_tmp
-dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw###second_banner_ads_tmp
+dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw,sunhd.info###second_ads_tmp
+dinozap.info,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw,sunhd.info###second_banner_ads_tmp
 dpstreaming.org,iron-ladies.com,jeux-gratuits.com,mac4ever.com,runningmanengsub.com###simplemodal-container
 bigfishgames.fr,dpstreaming.org,iron-ladies.com,jeux-gratuits.com,mac4ever.com,runningmanengsub.com###simplemodal-overlay
-cheriefm.fr,nrj12.fr,rireetchansons.fr###skin_click
 amazon.com,amazon.fr###smart-app-banner
-3suisses.fr,arte.tv,canalplus.fr,deviantart.com,dna.fr,estrepublicain.fr,francebleu.fr,igraal.com,ladepeche.fr,lardennais.fr,lalsace.fr,lavoixdunord.fr,ledauphine.com,lefigaro.fr,leparisien.fr,leprogres.fr,lidl.fr,m.closermag.fr,m.darty.com,m.laredoute.fr,m.lavoixdunord.fr,m.mcdonalds.fr,m.paruvendu.fr,melody.tv,mycanal.fr,ouest-france.fr,programme-television.org,touch.118712.fr,transilien.mobi,tripadvisor.fr,voila.fr###smartbanner
+3suisses.fr,arte.tv,canalplus.fr,deviantart.com,dna.fr,docteurclic.com,estrepublicain.fr,francebleu.fr,igraal.com,ladepeche.fr,lardennais.fr,lalsace.fr,lavoixdunord.fr,ledauphine.com,lefigaro.fr,leparisien.fr,leprogres.fr,lidl.fr,m.closermag.fr,m.darty.com,m.laredoute.fr,m.lavoixdunord.fr,m.mcdonalds.fr,m.paruvendu.fr,melody.tv,mycanal.fr,nordlittoral.fr,ouest-france.fr,programme-television.org,touch.118712.fr,transilien.mobi,tripadvisor.fr,voila.fr###smartbanner
 contacter.com,nonsurtaxe.com,sanjb.net###sqw-message
 cinemay.com,dbrid.eu,debrastagi.com,dpstream.tv,dvdrip-films.com,iphone-tv.eu,lookiz.ws,moneymakingdiscussion.net,recette-pizza.net,streaming-vf.net,streaming-vk.com###stp-bg
 cinemay.com,dbrid.eu,debrastagi.com,dpstream.tv,dvdrip-films.com,iphone-tv.eu,lookiz.ws,moneymakingdiscussion.net,recette-pizza.net,streaming-vf.net,streaming-vk.com###stp-main
-4upfiles.com,alterupload.com,cjoint.net,desfichiers.com,dfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com###table1
+alterupload.com,cjoint.net,desfichiers.com,dfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com###table1
 3suisses.fr,lemondeinformatique.fr###TB_overlay
 dvdripfilms.com,francedimanche.fr###text-22
 afreesms.com,skyrock.fm###title
 chartsinfrance.net,ozap.com,purepeople.com,terrafemina.com###toast-facebook
-notretemps.com,profilewatch.org,tupperware.fr###overlay
+notretemps.com,profilewatch.org,santemagazine.fr,tupperware.fr###overlay
 electromenager-compare.com,lcd-compare.com###wk_adblock
-dinozap.com,dinozap.info,dinozap.tv,expressio.fr,hdcastream.com,hdcastream.info,leguide.com,lequotidiendumedecin.fr,midilibre.fr,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw##.ad
+dinozap.com,dinozap.info,dinozap.tv,expressio.fr,hdcastream.com,hdcastream.info,leguide.com,lequotidiendumedecin.fr,midilibre.fr,playerhd1.pw,playerhd2.pw,sitenow.me,sstream.pw,sunhd.info##.ad
 smartserials.com,smsgott.de,sortiesdvd.com,streamingclic.com##.ads
 afreesms.com,debridfast.com,getdebrid.com,snsw.us##.adsbygoogle
 auslogics.com,heroturko.me,up-flow.org##.adv
@@ -4959,7 +4867,7 @@ agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericultu
 avendrealouer.fr,jumia.ma,oumma.com##.b-modal.__b-popup1__
 bitdebrid.com,getdebrid.com,nba-stream.com##.badge-counter.shareaholic-ui.shareaholic-share-buttons-container
 bdgest.com,bedetheque.com##.ban-top
-beinsport.fr,canalplus.fr,flippa.com,planeteplus.com##.banner
+beinsport.fr,canalplus.fr,flippa.com,planeteplus.com,santemagazine.fr,urle.co##.banner
 bdgest.com,bedetheque.com##.banniere-top
 electromenager-compare.com,lcd-compare.com##.bar-navbot
 1fichier.com,alterupload.com,cjoint.net,desfichiers.com,dfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com##.box_header[style="padding:20px 0;width:910px;margin:auto;text-align:center"]
@@ -4985,14 +4893,13 @@ agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericultu
 click-links.org,embed.ted.com,ibe.vn,ileprotect.com,protect-links.com,ssl.gs,vosprotects.com##.logo
 agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericulture.org,marche-populaire.com,noel.org,vide-dressing.org,vide-greniers.org,vide-maisons.org##.Merrill-pic
 agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericulture.org,marche-populaire.com,noel.org,vide-dressing.org,vide-greniers.org,vide-maisons.org##.Morrigan-pic[href="/explications-publicite"]
-cheriefm.fr,nrj.fr,rireetchansons.fr##.popin-overlay
 animesvostfr.net,stream-vostfr.com##.popplugin
 confiserieflorian.com,filefactory.com##.popup
 chronofoot.com,gentside.com,maxisciences.com,ohmymag.com##.popup.clearfix.small
 chronofoot.com,gentside.com,maxisciences.com,ohmymag.com##.post-dock.fixed
 bitshare.com,crocko.com,search.4shared.com,uploadable.ch##.premium
 1fichier.com,alterupload.com,cjoint.net,desfichiers.com,dfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com##.premium[style="width:900px;margin:auto;text-align:left"]
-cheriefm.fr,comprendrechoisir.com,notre-planete.info,nrj12.fr,radio-monaco.com,revioo.com,toulouse-annuaire.com,turbo.fr##.pub
+comprendrechoisir.com,notre-planete.info,nrj12.fr,radio-monaco.com,revioo.com,toulouse-annuaire.com,turbo.fr##.pub
 courrier-picard.fr,dvdfr.com##.publicite
 aerobatix.fr,frenchweb.fr,galerieslafayette.com,imagesia.com,loractu.fr,oummatv.tv,proximus.be,radins.com##.reveal-modal-bg
 ddl-island.ru,emule-island.ru##.rose
@@ -5014,7 +4921,7 @@ bc.vc,link.tl,my-protect-link.com##DIV[class="logo"]
 directmatchfoot.com,mesddl.net,series-ddl.com,streaming-ddl.net##DIV[id="pb1"]
 1fichier.com,alterupload.com,cjoint.net,desfichiers.com,dfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com##DIV[style="margin:auto;text-align:center;font-size:16px;padding:10px;font-weight:bold;width:580px"]
 agenda-loto.net,bourse-aux-jouets.org,bourse-aux-vetements.org,bourse-puericulture.org,marche-populaire.com,noel.org,vide-dressing.org,vide-greniers.org,vide-maisons.org##DIV[style="position: fixed; top: 0px; left: 0px; z-index: 25000; width: 100%; background-color: rgba(234, 175, 81, 0.9); color: rgb(0, 0, 0); text-align: left; font-size: 14px; cursor: pointer; padding: 0.25% 1%;"]
-dardarkom.com,go4up.com,mightyupload.com,onhax.com,regarder-film-gratuit.com,streamhd.eu##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
+dardarkom.com,go4up.com,onhax.com,regarder-film-gratuit.com,streamhd.eu##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 1fichier.com,alterupload.com,cjoint.net,desfichiers.com,dfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com##DIV[style="width:750px;height:110px;margin:auto;text-align:center;vertical-align:middle;overflow:hidden;padding:2px"]
 filmoviez.com,liberty-lands.com,moviz.net,movizdb.com,streamov.com,tv-direct.fr,tv-monde.net,ulivetv.com,vostreaming.com##DIV.fixe
 alterupload.com,cjoint.net,desfichiers.com,dl4free.com,megadl.fr,mesfichiers.org,piecejointe.net,pjointe.com,tenvoi.com##FIELDSET[style="border:1px solid blue;padding:0px;margin:auto;height:140px;width:680px"]
@@ -5026,7 +4933,7 @@ direct-foot.info,foot-live.info,footstream.tv,streaming-foot.info##IMG[style="le
 electromenager-compare.com,lcd-compare.com##IMG[width="120"][height="600"]
 electromenager-compare.com,lcd-compare.com##IMG[width="160"][height="600"]
 airplayradios.com,halalbook.fr,halalbook.net##IMG[width="300"][height="250"]
-4upfiles.com,up09.com,uptobox.com##INPUT[name="method_premium"]
+up09.com,uptobox.com##INPUT[name="method_premium"]
 debrid.co.uk,pro-zik.ws##SPAN[style="color: red;"]
 ddl-island.ru,emule-island.ru##TABLE[onclick="setCookie('popUnderEI','true');"]
 /edgemesh.*.js$script,domain=~edgemesh.com|~edgeno.de
@@ -5134,8 +5041,17 @@ dir50.com##.bmadblock-597fa5a409f26100202edf5f
 dir50.com##.comment_box
 dir50.com##div:nth-of-type(6) > .bigres
 dir50.com##div:nth-of-type(8) > .bigres
+duino4projects.com##.widget_text.box_outer:nth-of-type(4)
+duino4projects.com##.widget_text.box_outer:nth-of-type(5)
+ed-protect.org###ads_bottom
+ed-protect.org###ads_top
+ed-protect.org###M137698ScriptRootC167717
+ed-protect.org##.mgbox
 entre-mamans.org##BODY
 entreprincesses.eu##BODY
+extreme-protect.com##font > b
+filmstreaming.to###spu-6553
+filmstreaming.to###spu-bg-6553
 flowcode.software.informer.com##.a_strip_noline5
 formationwebmarketingenligne.fr##BODY
 fr.imvu.com###content > .mrec > p
@@ -5189,6 +5105,7 @@ linkshrink.net##.mainP
 linkshrink.net##.rightmP
 m.yopmail.com##center > div > div > .fond.al_l > .wc:nth-of-type(3) > tbody > tr > td > .al_l.wc > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(1)
 macdrug.com###text-8
+macserial.com###content > div:nth-of-type(1)
 maitredebuzz.com##BODY
 majax31lsnotdown.blogspot.fr##BODY
 meilleurblaguefr.blogspot.com###floatLayer1
@@ -5232,9 +5149,14 @@ shareae.com###dle-content > .block > center
 shareae.com##.block:nth-of-type(9)
 shareae.com##a[href="javascript:hide_float_right()"]
 softasm.com###floatingsharebar
+stream.porntv69.com##.banner
+stream.porntv69.com##banner
 tampermonkey.net##.p100100.noborder:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
 tampermonkey.net##.p100100.noborder:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
 tampermonkey.net##tr:nth-of-type(2) > td > .noborder > tbody > tr > td
+techeweb.hebergratuit.net##BODY
+techeweb.hebergratuit.net##body > div:nth-of-type(9) > div
+techeweb.hebergratuit.net##iframe[src="http://manager.femmec.com/untitled.html"]
 telecharger-youtube-mp3.com###___plusone_0
 telecharger-youtube-mp3.com###home > .content > .reseau > div:nth-of-type(1)
 telecharger-youtube-mp3.com###home > .content > .reseau > div:nth-of-type(2) > .twitter-follow-button
@@ -5326,13 +5248,15 @@ uptobox.com##.cell:nth-of-type(4) > .grey_cell
 uptobox.com##.cell:nth-of-type(5) > .white_cell
 uptobox.com##.cell:nth-of-type(6) > .grey_cell
 uptobox.com##.socials
-uptobox.com##center > table > tbody > tr > td:nth-of-type(1)
 uptobox.com##center > table > tbody > tr > td:nth-of-type(3)
+uptobox.com##center:nth-of-type(4)
+uptobox.com##center:nth-of-type(4) > .blue_link
 vovf.net###left
 vovf.net###right
 vovf.net##.pied > center:nth-of-type(2) > font
 vovf.net##tr:nth-of-type(1) > td
 wallpaperswide.com##.right-panel > .sidebox:nth-of-type(5) > div:nth-of-type(1)
+whatismyipaddress.com###adleft
 whatismyipaddress.com###social-share
 winaero.com##.entry-header > div:nth-of-type(1)
 winaero.com##.social-media-container
@@ -5341,6 +5265,10 @@ winaero.com##tr:nth-of-type(11) > td
 winaero.com##tr:nth-of-type(2) > td
 winaero.com##tr:nth-of-type(2) > td > div
 ww1.yggtorrent.com##.btn-primary.btn
+ww1.zone-telechargement.ws##.corps > a[href^="http://redirect.admeerkat.com/"]
+ww1.zone-telechargement.ws##.corps > center:nth-of-type(1)
+ww1.zone-telechargement.ws##h2 > center
+ww1.zone-telechargement.ws##span > h1
 www.7sur7.be###socialTools > .right
 www.buzz-fr.net###text-2 > .textwidget
 www.buzz-fr.net###text-7
@@ -5373,7 +5301,20 @@ www.coupla.fr##BODY
 www.datafilehost.com###dldpagenfo > div > div
 www.datafilehost.com##center
 www.demotivateur.fr###slidebox
+www.developpez.com###ar1po0p
+www.developpez.com###di1wg0m > div
+www.developpez.com###oq1pv1u > div
+www.developpez.com###vk1is0q > div
+www.developpez.com##aside > div:nth-of-type(1)
+www.developpez.com##header > div:nth-of-type(3)
+www.developpez.net##.contenuPage > div:nth-of-type(1)
+www.developpez.net##.contenuPage > div:nth-of-type(1) > div
+www.developpez.net##header > div:nth-of-type(3)
+www.dl-protect1.com##.content > center:nth-of-type(1)
+www.dl-protect1.com##center:nth-of-type(2)
+www.dl-protect1.com##center:nth-of-type(2) > center
 www.dl-protecte.com##center > center > center
+www.downvids.net###adframe1511
 www.downvids.net###ads250
 www.downvids.net###ads340web
 www.downvids.net###big_signup > label:nth-of-type(1)
@@ -5401,8 +5342,11 @@ www.extra-leaks.com##.section:nth-of-type(9) > .funbox.section
 www.extra-leaks.com##.sidebar > .funbox.section
 www.extreme-down.cc###M215327ScriptRootC90361
 www.extreme-down.one###M227885ScriptRootC101303
+www.extreme-down.pro###dle-content > table
+www.extreme-down.pro##.blockcontent > div:nth-of-type(4)
 www.extreme-down.pro##.blockcontent > div:nth-of-type(6)
 www.extreme-down.pro##.wrn_txt3
+www.extreme-down.pro##div:nth-of-type(19)
 www.extreme-down.pro##div:nth-of-type(5) > table
 www.extreme-down.pro##div:nth-of-type(6) > table > tbody > tr > .trtbl
 www.freedom.fr###text-28
@@ -5425,11 +5369,17 @@ www.hebergementweb.org##.pubHook.samAlignCenter.samBannerUnit
 www.hebergementweb.org##.sidebarBelowVisitorPanel.samAlignCenter.samBannerUnit
 www.hebergratuit.com###txt_1
 www.hebergratuit.com###txt_2
+www.hebergratuit.com###txt_5
+www.hebergratuit.com###txt_6
 www.hebergratuit.com##div:nth-of-type(5) > .Wp-Corps-artistique-P > .Corps-artistique-C-C3
 www.hebergratuit.com##div:nth-of-type(5) > .Wp-Corps-artistique-P > .Corps-artistique-C-C3 > a[href="contact.html"]:nth-of-type(1)
 www.hebergratuit.com##div:nth-of-type(7)
 www.hebergratuit.com##div:nth-of-type(7) > .Wp-Corps-artistique-P > .Corps-artistique-C-C7 > a[href="contact.html"]:nth-of-type(1)
+www.hebergratuit.com##img[src="wpimages/wpf9414caf_05_06.jpg"]:nth-of-type(17)
+www.hebergratuit.com##img[src="wpimages/wpf9414caf_05_06.jpg"]:nth-of-type(19)
 www.horlogeparlante.com###nav-main > .ctn-annu
+www.horlogeparlante.com##a[href="http://etoiledevenus.com/"]
+www.horlogeparlante.com##img[src="images/etoile-de-venus.png"]
 www.hostingpics.net###___plusone_0
 www.journaldesfemmes.com##.ccmcss_offcanvas_1 > .ccmcss_offcanvas_2 > .gutter.layout--offcanvas.layout > .layout_ct > .layout_ct__1 > .layout_ct__2 > .layout_main > .app_entry_diapo > div:nth-of-type(12) > div > div:nth-of-type(2)
 www.journaldesfemmes.com##.ccmcss_offcanvas_1 > .ccmcss_offcanvas_2 > .gutter.layout--offcanvas.layout > .layout_ct > .layout_ct__1 > .layout_ct__2 > .layout_main > .app_entry_diapo > div:nth-of-type(16) > div > div:nth-of-type(2)
@@ -5439,6 +5389,8 @@ www.journaldunet.com##.ccmcss_offcanvas_1 > .ccmcss_offcanvas_2 > .gutter.layout
 www.larousse.fr##.social
 www.larousse.fr##.socialwrapper
 www.lebonbuzz.net##BODY
+www.liens-telechargement.com##.content > center:nth-of-type(1)
+www.liens-telechargement.com##a[href^="http://redirect.admeerkat.com/"]
 www.linfo.re##.clearfix.socializer-buttons:nth-of-type(6)
 www.linternaute.com##.layout_main > div:nth-of-type(7)
 www.linternaute.com##div:nth-of-type(8) > div > div:nth-of-type(2)
@@ -5457,31 +5409,22 @@ www.piriform.com##.box--white.box--flush.box
 www.pixiz.com###upload-form > .col-advert > div > span
 www.pixiz.com###upload-form > .col-upload > .upload-advert
 www.playvids.com##a[href^="/away"]
+www.ps3-infos.fr###sfkseofkesfok
 www.qbittorrent.org###StretchHome > div
 www.qbittorrent.org##h3:nth-of-type(3)
 www.reunion.aeroport.fr##.colRight
 www.societe.com###pubbanner
-www.t411.ch### 4774190540671
-www.t411.ch### 4774191188901
-www.t411.ch###abId0\.02197850194569817 > .torrentDetails.block > .description.block > article > .align-center:nth-of-type(1) > span
-www.t411.ch###abId0\.02197850194569817 > .torrentDetails.block > .description.block > article > .align-center:nth-of-type(3) > p:nth-of-type(1) > span
-www.t411.ch###abId0\.02197850194569817 > .torrentDetails.block > div:nth-of-type(3)
-www.t411.ch###abId0\.02197850194569817 > .torrentDetails.block > div:nth-of-type(7)
-www.t411.ch###abId0\.36823833885912927 > .torrentDetails.block > div:nth-of-type(3)
-www.t411.ch###abId0\.6838683444837872 > .torrentDetails.block > .description.block > article > .align-center:nth-of-type(1) > span
-www.t411.ch###abId0\.6838683444837872 > .torrentDetails.block > .description.block > article > .align-center:nth-of-type(3) > p:nth-of-type(1) > span
-www.t411.ch###abId0\.6838683444837872 > .torrentDetails.block > div:nth-of-type(3)
-www.t411.ch###abId0\.6838683444837872 > .torrentDetails.block > div:nth-of-type(7)
-www.t411.ch##.align-center:nth-of-type(1) > span
-www.t411.ch##p:nth-of-type(1) > span
-www.t411.li##.align-center:nth-of-type(1) > span
-www.t411.li##.align-center:nth-of-type(2)
-www.t411.li##.align-center:nth-of-type(3)
-www.t411.li##.torrentDetails.block > div:nth-of-type(3)
-www.t411.li##div:nth-of-type(6)
-www.t411.li##div:nth-of-type(7)
-www.t411.li##p:nth-of-type(1) > span
+www.teche.hebergratuit.net###news
+www.teche.hebergratuit.net###services
+www.teche.hebergratuit.net###team
+www.teche.hebergratuit.net##.banner-bottom
+www.teche.hebergratuit.net##.w3-banner-edu
+www.teche.hebergratuit.net##body > div:nth-of-type(9) > div
+www.techeweb.hebergratuit.net##BODY
+www.techeweb.hebergratuit.net##body > div:nth-of-type(9) > div
 www.telechargement-film.org###post-9577 > .entry > .vip-buttons
+www.theengineeringprojects.com##.otw-sidebar-vertical.otw-sidebar-1.otw-sidebar
+www.theengineeringprojects.com##.otw-sidebar-vertical.otw-sidebar-2.otw-sidebar > .widget_text.widget-first.otw-widget-1.widget
 www.tunefind.com###root > .App__container___3CVzV > .App__content___2PML_ > div > .PageContainer__outer___feSKi > .PageContainer__inner___2kXPH > .MainContainer__container___3dxtl > .MainContainerSection__container___1pEzx > .AdSlot__outer___2cxrI > .AdSlot__inner___TTgUz
 www.tunefind.com###root > .App__container___3CVzV > .App__content___2PML_ > div > .PageContainer__outer___feSKi > .PageContainer__inner___2kXPH > .MainContainer__container___3dxtl > div:nth-of-type(2) > .SongList__container___1iQWN > div > .AdSlot__outer___2cxrI > .AdSlot__inner___TTgUz
 www.tunefind.com###root > .App__container___3CVzV > .App__content___2PML_ > div > .PageContainer__outer___feSKi > .PageContainer__inner___2kXPH > .SidebarContainer__container___3yQw- > .AdSlot__outer___2cxrI
@@ -5504,6 +5447,7 @@ www.vporno.tv##.secsq
 www.wareziens.net##.social_viewtopic
 www.wawacity.su##.wa-side-blocks.col-md-2:nth-of-type(1) > .wa-block:nth-of-type(3) > .wa-block-title
 www.wawacity.su##.wa-side-blocks.col-md-2:nth-of-type(3) > .wa-block:nth-of-type(5) > .wa-block-title
+www.xenetis.org##.contenu > div:nth-of-type(1)
 www.xenfrench.com##.sidebarBelowVisitorPanel.samAlignCenter.samBannerUnit
 www.xnxx.com###content-ad-side
 www.xnxx.com###footer > .mobile-only-hide
@@ -5530,6 +5474,8 @@ www.zeppfeed.com###main-content > .container-fluid > .row > .col-md-7 > .main-co
 www.zeppfeed.com###main-content > .container-fluid > .row > .col-md-7 > .main-content-inn > .text-center.sponsored:nth-of-type(5) > p
 www.zone-telechargement.com##div:nth-of-type(3) > center
 www.zone-telechargement.ws##h2 > center
+www.zone-telechargement1.com##.corps > center:nth-of-type(1)
+www.zone-telechargement1.com##a[href^="http://trafficlord.net/"]
 www.zupimages.net###social
 www.zupimages.net##a[href="https://www.booking.com/s/5f020f9e"]
 www.zupimages.net##p:nth-of-type(2)
@@ -5538,6 +5484,7 @@ xhamster.com###searchRes2 > .box > .boxC > table > tbody > tr > td > .fr.avdo
 xhamster.com###swectrqw
 yggtorrent.com###vpn_link > .tabledata0
 yggtorrent.com###vpn_link > .tabledata1
+yggtorrent.com##.btn-success.btn
 yggtorrent.com##.vpn_link
 youporn.com##.gYtg7SpcdxA:nth-of-type(1) > .removeAdLink.callBox.ad-remove
 yt2fb.com##.ads
@@ -5546,7 +5493,6 @@ zippyshare.com###lrbox > .center_ad > .smalltab:nth-of-type(1) > div
 zippyshare.com###lrbox > .center_ad > .smalltab:nth-of-type(2)
 zippyshare.com###lrbox > .center_ad > .smalltab:nth-of-type(2) > div
 zippyshare.com###lrbox > .center_ad > .smalltab:nth-of-type(3) > div
-
 ||10minutemail.info/cdn/images/facebook.png$image
 ||10minutemail.info/cdn/images/googleplus.png$image
 ||10minutemail.info/cdn/images/twitter.png$image
@@ -5670,16 +5616,23 @@ zippyshare.com###lrbox > .center_ad > .smalltab:nth-of-type(3) > div
 ||www.facebook.com/plugins/like_box.php?app_id=125995190783291&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F1FegrZjPbq3.js%3Fversion%3D42%23cb%3Df3c28e85eeef394%26domain%3Dprnt.sc%26origin%3Dhttp%253A%252F%252Fprnt.sc%252Ff1d08ffac056974%26relation%3Dparent.parent&container_width=0&header=false&href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FLightShot%2F242750885760&locale=en_US&sdk=joey&show_faces=true&stream=false&width=300$subdocument
 ||www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FGrafMe%2F390963184304930&width=350&height=258&colorscheme=light&show_faces=true&border_color=%23ffffff&stream=false&header=false$subdocument
 ||www.facebook.com/v2.8/plugins/like.php?action=like&app_id=411526418946259&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df165b5a11de9688%26domain%3Dwallgif.com%26origin%3Dhttp%253A%252F%252Fwallgif.com%252Ff29ccb2c3c63228%26relation%3Dparent.parent&container_width=555&href=http%3A%2F%2Fwallgif.com%2Fgif%2F955&layout=standard&locale=en_GB&sdk=joey&share=true&show_faces=true&size=small$subdocument
+||www.gocloudly.com/adw.js$script,important
+||www.gocloudly.com/g.js$script
+||www.gocloudly.com^$popup,important
+||www.gocloudly.com^$script,important
 ||www.grafme.com/css/img/cadreh3.gif$image
 ||www.hebergementweb.org/data/Siropu/images/158dcd39d45343.gif$image
 ||www.hebergementweb.org/data/Siropu/images/158f8bf5c60fe6.gif$image
 ||www.hebergratuit.com/wpimages/wp6e8b8902_06.png$image
+||www.hebergratuit.com/wpimages/wpd9bf041e_06.png$image
+||www.hebergratuit.com/wpimages/wpd9bf041e_06.png$image
 ||www.hebergratuit.com/wpimages/wpe9202f01_05_06.jpg$image
+||www.hebergratuit.com/wpimages/wpf9414caf_05_06.jpg$image
+||www.hebergratuit.com/wpimages/wpf9414caf_05_06.jpg$image
 ||www.hostingpics.net/style/images/twitter.gif$image
 ||www.mirrorcreator.com/_utrial.php?f=CyberGhost_VPN_6.0.8.2959.rar$subdocument
 ||www.mirrorcreator.com/images/U_Down.png$image
-||www.t411.ch/themes/blue/images/download_blue.png?1$image
-||www.t411.li/themes/blue/images/download.png?2$image
+||www.teche.hebergratuit.net^
 ||www.telechargement-film.org/images/film-regarder.jpg$image
 ||www.univers-animer.com/telecharger.rapidement.png$image
 ||www.univers-animer.com/telecharger2.png$image
@@ -5691,6 +5644,7 @@ zippyshare.com###lrbox > .center_ad > .smalltab:nth-of-type(3) > div
 ||www.xenfrench.com/forum/data/Siropu/images/1594a37607b6c1.gif$image
 ||www.xenfrench.com/forum/data/Siropu/images/1594a9d747023f.gif$image
 ||www.youtube-nocookie.com/embed/JUyHSQvOnFw$subdocument
+||www.zone-telechargement.ws/uploads/ddl.JPG$image
 ||www.zone-telechargement.ws/uploads/ddl.JPG$image
 ||www.zone-telechargement.ws/uploads/dl.png$image
 ||www.zone-telechargement.ws/uploads/telecharg.jpg$image
@@ -5757,3 +5711,16 @@ facebook.com#@##pagelet_advertiser_panel
 ! yggtorrent.com###vpn_link
 ! 10/12/2017 - fxporn69 -- Souci de pub
 @@||fxporn69.com^$generichide
+! 24/01/2018 - voirfilms.ws -- Impossible de cliquer sur le lien de dwl apres captcha car popup bloquer
+@@||1fichier.com^$popup,domain=voirfilms.ws
+@@||uptobox.com^$popup,domain=voirfilms.ws
+! 27/12/2017 uptobox.com -- Affichage api car bloquer sinon pour sms
+@@||api.dedipass.com^$subdocument,domain=uptobox.com
+@@||secure-pay.us^$subdocument,domain=uptobox.com
+@@||payment.allopass.com^$subdocument,domain=uptobox.com
+! 29/12/2017 - extra-techs.com -- Autorisation Affichage api Reseau Social
+@@||plus.google.com/js/client:plusone.js$script,domain=www.extra-techs.com
+@@||connect.facebook.net/fr_FR/sdk.js$script,domain=www.extra-techs.com
+@@||staticxx.facebook.com^$subdocument,domain=www.extra-techs.com
+! uptobox.com -- Probleme affichage page payement
+! uptobox.com##center > table > tbody > tr > td:nth-of-type(1)
