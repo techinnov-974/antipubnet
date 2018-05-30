@@ -4981,7 +4981,7 @@ ddl-island.ru,emule-island.ru##TABLE[onclick="setCookie('popUnderEI','true');"]
 10minutemail.org###leftover
 10minutemail.org###right
 10minutemail.org###support-table
-1fichier.com##.center-container2 > div:nth-of-type(1)
+!1fichier.com##.center-container2 > div:nth-of-type(1)
 amourastuces.com##BODY
 apkchest.com###ads300_600-widget-3 > .widget-container
 apkchest.com###ads300_600-widget-3 > .widget-top
