@@ -3,5 +3,3 @@
 ! Title: AntiPubNet-Beta
 ! Filtre complémentaire
 ! Expires: 1 days
-
-www.youtube.com##BODY
