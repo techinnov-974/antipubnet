@@ -4,4 +4,4 @@
 ! Filtre complémentaire
 ! Expires: 1 days
 
-youtube.com##BODY
+www.youtube.com##BODY
