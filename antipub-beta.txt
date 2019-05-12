@@ -1,0 +1,7 @@
+﻿[µBlock]
+! Version: 201905120000
+! Title: AntiPubNet-Beta
+! Filtre complémentaire
+! Expires: 1 days
+
+youtube.com##BODY
