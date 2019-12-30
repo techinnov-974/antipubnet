@@ -10,7 +10,7 @@ www.facebook.com###navItem_2356318349 > ._5afe
 www.facebook.com##.removeButton
 www.facebook.com##div._2s24._cy6:nth-of-type(2) > div._4kny:nth-of-type(1)
 www.facebook.com##._50tm._4kny
-www.facebook.com##._51sy.selected._4jy1._4jy3._4jy0._42ft
+! Bug affiche pas le bouton publié /!\ www.facebook.com##._51sy.selected._4jy1._4jy3._4jy0._42ft
 www.facebook.com##div._cy6:nth-of-type(1) > div._4kny:nth-of-type(1)
 www.facebook.com###pagelet_escape_hatch
 www.facebook.com###u_fetchstream_2_5 > .addFriendText > .addButton
