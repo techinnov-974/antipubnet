@@ -85,3 +85,5 @@ facebook.com##.megaphone_location_pages_feed
 apps.facebook.com###rightCol
 ! "People You May Know" on profile page
 facebook.com###pagelet_pymk_timeline
+
+instagram.com##BODY
