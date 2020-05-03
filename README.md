@@ -7,10 +7,3 @@ Site web : https://antipubnet.blogspot.com/
 * ![Opera](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/opera.png) Opera &#10004;
 * ![Safari](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/safari.png) Safari &#10004;
 * ![Edge](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) Microsoft Edge &#10004;
-
-## Support
-* Forum : https://www.extra-techs.com
-
-
-
-(c) 2017 - 2018 | Techinnov, Extra-techs
