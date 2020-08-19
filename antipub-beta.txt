@@ -87,3 +87,9 @@ apps.facebook.com###rightCol
 facebook.com###pagelet_pymk_timeline
 
 instagram.com##BODY
+www.facebook.com##.fantaTabMain-thread\:1830667720301724._27_3.opened._50-v.fbNub._4-0b._50m_._50mz._s0f._3_9e > .uiContextualLayerParent.fbDockChatTabFlyout.fbNubFlyout > .fbNubFlyoutOuter > ._6vu1.fbNubFlyoutInner._6z9d._6vu5 > .titlebar.clearfix > ._69pt > ._66n2 > ._66n3 > ._2rt2 > ._4jeh > ._69r- > ._3a61
+www.facebook.com##li._8l9y:nth-of-type(11)
+www.facebook.com##._7hfn
+www.facebook.com##._7kxx
+
+
