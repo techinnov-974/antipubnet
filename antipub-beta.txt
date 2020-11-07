@@ -91,5 +91,5 @@ www.facebook.com##.fantaTabMain-thread\:1830667720301724._27_3.opened._50-v.fbNu
 www.facebook.com##li._8l9y:nth-of-type(11)
 www.facebook.com##._7hfn
 www.facebook.com##._7kxx
-
-
+! New
+facebook.com##.k4urcfbm.l9j0dhe7.a5nuqjux.a8c37x1j.rq0escxv
