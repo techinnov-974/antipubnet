@@ -1,5 +1,5 @@
 ﻿[µBlock]
-! Version: 201912220000
+! Version: 202011080000
 ! Title: AntiPubNet-Beta
 ! Filtre complémentaire
 ! Expires: 1 days
@@ -94,3 +94,4 @@ www.facebook.com##._7kxx
 ! New
 facebook.com##.k4urcfbm.l9j0dhe7.a5nuqjux.a8c37x1j.rq0escxv
 facebook.com##div.du4w35lb.pfnyh3mw.btwxx1t3.dwo3fsh8.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.scb9dxdr.sj5x9vvc.dflh9lhu.cxgpxx05.h676nmdw.oygrvhab.oi9244e8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.g5ia77u1.oajrlxb2:nth-of-type(3)
+facebook.com##div.du4w35lb.pfnyh3mw.btwxx1t3.dwo3fsh8.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.scb9dxdr.sj5x9vvc.dflh9lhu.cxgpxx05.h676nmdw.oygrvhab.oi9244e8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.g5ia77u1.oajrlxb2:nth-of-type(2)
